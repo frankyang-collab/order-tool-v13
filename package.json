@@ -1,0 +1,8 @@
+{
+  "name": "order-tool-backend",
+  "version": "1.0.0",
+  "dependencies": {
+    "msoffcrypto-tool": "^2.8.1",
+    "xlsx": "^0.18.5"
+  }
+}
